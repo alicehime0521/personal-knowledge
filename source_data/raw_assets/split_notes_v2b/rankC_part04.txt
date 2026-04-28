@@ -1,0 +1,2165 @@
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: スタバでのビジネス話
+BODY:
+<div><h1>スタバでの</h1><h1>ビジネス話</h1></div>
+<div><br></div>
+<div>さなさん、<br></div>
+<div>相手の視座に降りれてない</div>
+<div><br></div>
+<div>飯村さんはできる人だけど、そこを理解してない<br></div>
+<div><br></div>
+<div>フライヤーを作った<br></div>
+<div>黒い画面に白文字、見ずらそうな感じ<br></div>
+<div><br></div>
+<div><br></div>
+<div>さなさんがどんなビジネス向いてるの？</div>
+<div>やろうとしてるのって難易度たかい<br></div>
+<div>プロダクト作らないと、<br></div>
+<div>値段決めるする<br></div>
+<div>クロージングする</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 新規メモ
+BODY:
+<div><img style="max-width: 100%; max-height: 100%;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABgAAAADACAYAAADC1qjlAAAAAXNSR0IArs4c6QAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAGAKADAAQAAAABAAAAwAAAAACHRQlpAAAV0klEQVR4Ae3ZwQ0AIAwDMWD/nQtijJO7QZz+sufdcgQIECBAgAABAgQIECBAgAABAgQIECBAgEBK4KTSCEOAAAECBAgQIECAAAECBAgQIECAAAECBAh8AQOARyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAABAgQIECBAgIABwA8QIECAAAECBAgQIECAAAECBAgQIECAAIGggAEgWKpIBAgQIECAAAECBAgQIECAAAECBAgQIEDAAOAHCBAgQIAAAQIECBAgQIAAAQIECBAgQIBAUMAAECxVJAIECBAgQIAAAQIECBAgQIAAAQIECBAgYADwAwQIECBAgAABAgQIECBAgAABAgQIECBAIChgAAiWKhIBAgQIECBAgAABAgQIECBAgAABAgQIEDAA+AECBAgQIECAAAECBAgQIECAAAECBAgQIBAUMAAESxWJAAECBAgQIECAAAECBAgQIECAAAECBAgYAPwAAQIECBAgQIAAAQIECBAgQIAAAQIECBAIChgAgqWKRIAAAQIECBAgQIAAAQIECBAgQIAAAQIEDAB+gAABAgQIECBAgAABAgQIECBAgAABAgQIBAUMAMFSRSJAgAABAgQIECBAgAABAgQIECBAgAABAgYAP0CAAAECBAgQIECAAAECBAgQIECAAAECBIICBoBgqSIRIECAAAECBAgQIECAAAECBAgQIECAAAEDgB8gQIAAAQIECBAgQIAAAQIECBAgQIAAAQJBAQNAsFSRCBAgQIAAAQIECBAgQIAAAQIECBAgQICAAcAPECBAgAABAgQIECBAgAABAgQIECBAgACBoIABIFiqSAQIECBAgAABAgQIECBAgAABAgQIECBAwADgBwgQIECAAAECBAgQIECAAAECBAgQIECAQFDAABAsVSQCBAgQIECAAAECBAgQIECAAAECBAgQIGAA8AMECBAgQIAAAQIECBAgQIAAAQIECBAgQCAoYAAIlioSAQIECBAgQIAAAQIECBAgQIAAAQIECBAwAPgBAgQIECBAgAABAgQIECBAgAABAgQIECAQFDAABEsViQABAgQIECBAgAABAgQIECBAgAABAgQIGAD8AAECBAgQIECAAAECBAgQIECAAAECBAgQCAoYAIKlikSAAAECBAgQIECAAAECBAgQIECAAAECBAwAfoAAAQIECBAgQIAAAQIECBAgQIAAAQIECAQFDADBUkUiQIAAAQIECBAgQIAAAQIECBAgQIAAAQIGAD9AgAABAgQIECBAgAABAgQIECBAgAABAgSCAgaAYKkiESBAgAABAgQIECBAgAABAgQIECBAgAABA4AfIECAAAECBAgQIECAAAECBAgQIECAAAECQQEDQLBUkQgQIECAAAECBAgQIECAAAECBAgQIECAgAHADxAgQIAAAQIECBAgQIAAAQIECBAgQIAAgaCAASBYqkgECBAgQIAAAQIECBAgQIAAAQIECBAgQMAA4AcIECBAgAABAgQIECBAgAABAgQIECBAgEBQwAAQLFUkAgQIECBAgAABAgQIECBAgAABAgQIECBgAPADBAgQIECAAAECBAgQIECAAAECBAgQIEAgKGAACJYqEgECBAgQIECAAAECBAgQIECAAAECBAgQMAD4AQIECBAgQIAAAQIECBAgQIAAAQIECBAgEBQwAARLFYkAAQIECBAgQIAAAQIECBAgQIAAAQIECBgA/AABAgQIECBAgAABAgQIECBAgAABAgQIEAgKGACCpYpEgAABAgQIECBAgAABAgQIECBAgAABAgQMAH6AAAECBAgQIECAAAECBAgQIECAAAECBAgEBQwAwVJFIkCAAAECBAgQIECAAAECBAgQIECAAAECBgA/QIAAAQIECBAgQIAAAQIECBAgQIAAAQIEggIGgGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAHyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAABAgQIECBAgIABwA8QIECAAAECBAgQIECAAAECBAgQIECAAIGggAEgWKpIBAgQIECAAAECBAgQIECAAAECBAgQIEDAAOAHCBAgQIAAAQIECBAgQIAAAQIECBAgQIBAUMAAECxVJAIECBAgQIAAAQIECBAgQIAAAQIECBAgYADwAwQIECBAgAABAgQIECBAgAABAgQIECBAIChgAAiWKhIBAgQIECBAgAABAgQIECBAgAABAgQIEDAA+AECBAgQIECAAAECBAgQIECAAAECBAgQIBAUMAAESxWJAAECBAgQIECAAAECBAgQIECAAAECBAgYAPwAAQIECBAgQIAAAQIECBAgQIAAAQIECBAIChgAgqWKRIAAAQIECBAgQIAAAQIECBAgQIAAAQIEDAB+gAABAgQIECBAgAABAgQIECBAgAABAgQIBAUMAMFSRSJAgAABAgQIECBAgAABAgQIECBAgAABAgYAP0CAAAECBAgQIECAAAECBAgQIECAAAECBIICBoBgqSIRIECAAAECBAgQIECAAAECBAgQIECAAAEDgB8gQIAAAQIECBAgQIAAAQIECBAgQIAAAQJBAQNAsFSRCBAgQIAAAQIECBAgQIAAAQIECBAgQICAAcAPECBAgAABAgQIECBAgAABAgQIECBAgACBoIABIFiqSAQIECBAgAABAgQIECBAgAABAgQIECBAwADgBwgQIECAAAECBAgQIECAAAECBAgQIECAQFDAABAsVSQCBAgQIECAAAECBAgQIECAAAECBAgQIGAA8AMECBAgQIAAAQIECBAgQIAAAQIECBAgQCAoYAAIlioSAQIECBAgQIAAAQIECBAgQIAAAQIECBAwAPgBAgQIECBAgAABAgQIECBAgAABAgQIECAQFDAABEsViQABAgQIECBAgAABAgQIECBAgAABAgQIGAD8AAECBAgQIECAAAECBAgQIECAAAECBAgQCAoYAIKlikSAAAECBAgQIECAAAECBAgQIECAAAECBAwAfoAAAQIECBAgQIAAAQIECBAgQIAAAQIECAQFDADBUkUiQIAAAQIECBAgQIAAAQIECBAgQIAAAQIGAD9AgAABAgQIECBAgAABAgQIECBAgAABAgSCAgaAYKkiESBAgAABAgQIECBAgAABAgQIECBAgAABA4AfIECAAAECBAgQIECAAAECBAgQIECAAAECQQEDQLBUkQgQIECAAAECBAgQIECAAAECBAgQIECAgAHADxAgQIAAAQIECBAgQIAAAQIECBAgQIAAgaCAASBYqkgECBAgQIAAAQIECBAgQIAAAQIECBAgQMAA4AcIECBAgAABAgQIECBAgAABAgQIECBAgEBQwAAQLFUkAgQIECBAgAABAgQIECBAgAABAgQIECBgAPADBAgQIECAAAECBAgQIECAAAECBAgQIEAgKGAACJYqEgECBAgQIECAAAECBAgQIECAAAECBAgQMAD4AQIECBAgQIAAAQIECBAgQIAAAQIECBAgEBQwAARLFYkAAQIECBAgQIAAAQIECBAgQIAAAQIECBgA/AABAgQIECBAgAABAgQIECBAgAABAgQIEAgKGACCpYpEgAABAgQIECBAgAABAgQIECBAgAABAgQMAH6AAAECBAgQIECAAAECBAgQIECAAAECBAgEBQwAwVJFIkCAAAECBAgQIECAAAECBAgQIECAAAECBgA/QIAAAQIECBAgQIAAAQIECBAgQIAAAQIEggIGgGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAHyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAABAgQIECBAgIABwA8QIECAAAECBAgQIECAAAECBAgQIECAAIGggAEgWKpIBAgQIECAAAECBAgQIECAAAECBAgQIEDAAOAHCBAgQIAAAQIECBAgQIAAAQIECBAgQIBAUMAAECxVJAIECBAgQIAAAQIECBAgQIAAAQIECBAgYADwAwQIECBAgAABAgQIECBAgAABAgQIECBAIChgAAiWKhIBAgQIECBAgAABAgQIECBAgAABAgQIEDAA+AECBAgQIECAAAECBAgQIECAAAECBAgQIBAUMAAESxWJAAECBAgQIECAAAECBAgQIECAAAECBAgYAPwAAQIECBAgQIAAAQIECBAgQIAAAQIECBAIChgAgqWKRIAAAQIECBAgQIAAAQIECBAgQIAAAQIEDAB+gAABAgQIECBAgAABAgQIECBAgAABAgQIBAUMAMFSRSJAgAABAgQIECBAgAABAgQIECBAgAABAgYAP0CAAAECBAgQIECAAAECBAgQIECAAAECBIICBoBgqSIRIECAAAECBAgQIECAAAECBAgQIECAAAEDgB8gQIAAAQIECBAgQIAAAQIECBAgQIAAAQJBAQNAsFSRCBAgQIAAAQIECBAgQIAAAQIECBAgQICAAcAPECBAgAABAgQIECBAgAABAgQIECBAgACBoIABIFiqSAQIECBAgAABAgQIECBAgAABAgQIECBAwADgBwgQIECAAAECBAgQIECAAAECBAgQIECAQFDAABAsVSQCBAgQIECAAAECBAgQIECAAAECBAgQIGAA8AMECBAgQIAAAQIECBAgQIAAAQIECBAgQCAoYAAIlioSAQIECBAgQIAAAQIECBAgQIAAAQIECBAwAPgBAgQIECBAgAABAgQIECBAgAABAgQIECAQFDAABEsViQABAgQIECBAgAABAgQIECBAgAABAgQIGAD8AAECBAgQIECAAAECBAgQIECAAAECBAgQCAoYAIKlikSAAAECBAgQIECAAAECBAgQIECAAAECBAwAfoAAAQIECBAgQIAAAQIECBAgQIAAAQIECAQFDADBUkUiQIAAAQIECBAgQIAAAQIECBAgQIAAAQIGAD9AgAABAgQIECBAgAABAgQIECBAgAABAgSCAgaAYKkiESBAgAABAgQIECBAgAABAgQIECBAgAABA4AfIECAAAECBAgQIECAAAECBAgQIECAAAECQQEDQLBUkQgQIECAAAECBAgQIECAAAECBAgQIECAgAHADxAgQIAAAQIECBAgQIAAAQIECBAgQIAAgaCAASBYqkgECBAgQIAAAQIECBAgQIAAAQIECBAgQMAA4AcIECBAgAABAgQIECBAgAABAgQIECBAgEBQwAAQLFUkAgQIECBAgAABAgQIECBAgAABAgQIECBgAPADBAgQIECAAAECBAgQIECAAAECBAgQIEAgKGAACJYqEgECBAgQIECAAAECBAgQIECAAAECBAgQMAD4AQIECBAgQIAAAQIECBAgQIAAAQIECBAgEBQwAARLFYkAAQIECBAgQIAAAQIECBAgQIAAAQIECBgA/AABAgQIECBAgAABAgQIECBAgAABAgQIEAgKGACCpYpEgAABAgQIECBAgAABAgQIECBAgAABAgQMAH6AAAECBAgQIECAAAECBAgQIECAAAECBAgEBQwAwVJFIkCAAAECBAgQIECAAAECBAgQIECAAAECBgA/QIAAAQIECBAgQIAAAQIECBAgQIAAAQIEggIGgGCpIhEgQIAAAQIECBAgQIAAAQIECBAgQIAAAQOAHyBAgAABAgQIECBAgAABAgQIECBAgAABAkEBA0CwVJEIECBAgAABAgQIECBAgAABAgQIECBAgIABwA8QIECAAAECBAgQIECAAAECBAgQIECAAIGggAEgWKpIBAgQIECAAAECBAgQIECAAAECBAgQIEDAAOAHCBAgQIAAAQIECBAgQIAAAQIECBAgQIBAUMAAECxVJAIECBAgQIAAAQIECBAgQIAAAQIECBAgYADwAwQIECBAgAABAgQIECBAgAABAgQIECBAIChgAAiWKhIBAgQIECBAgAABAgQIECBAgAABAgQIEDAA+AECBAgQIECAAAECBAgQIECAAAECBAgQIBAUMAAESxWJAAECBAgQIECAAAECBAgQIECAAAECBAgYAPwAAQIECBAgQIAAAQIECBAgQIAAAQIECBAIChgAgqWKRIAAAQIECBAgQIAAAQIECBAgQIAAAQIEDAB+gAABAgQIECBAgAABAgQIECBAgAABAgQIBAUMAMFSRSJAgAABAgQIECBAgAABAgQIECBAgAABAgYAP0CAAAECBAgQIECAAAECBAgQIECAAAECBIICBoBgqSIRIECAAAECBAgQIECAAAECBAgQIECAAAEDgB8gQIAAAQIECBAgQIAAAQIECBAgQIAAAQJBAQNAsFSRCBAgQIAAAQIECBAgQIAAAQIECBAgQICAAcAPECBAgAABAgQIECBAgAABAgQIECBAgACBoIABIFiqSAQIECBAgAABAgQIECBAgAABAgQIECBAwADgBwgQIECAAAECBAgQIECAAAECBAgQIECAQFDAABAsVSQCBAgQIECAAAECBAgQIECAAAECBAgQIGAA8AMECBAgQIAAAQIECBAgQIAAAQIECBAgQCAoYAAIlioSAQIECBAgQIAAAQIECBAgQIAAAQIECBAwAPgBAgQIECBAgAABAgQIECBAgAABAgQIECAQFDAABEsViQABAgQIECBAgAABAgQIECBAgAABAgQIGAD8AAECBAgQIECAAAECBAgQIECAAAECBAgQCAoYAIKlikSAAAECBAgQIECAAAECBAgQIECAAAECBAwAfoAAAQIECBAgQIAAAQIECBAgQIAAAQIECAQFDADBUkUiQIAAAQIECBAgQIAAAQIECBAgQIAAAQIGAD9AgAABAgQIECBAgAABAgQIECBAgAABAgSCAgaAYKkiESBAgAABAgQIECBAgAABAgQIECBAgAABA4AfIECAAAECBAgQIECAAAECBAgQIECAAAECQQEDQLBUkQgQIECAAAECBAgQIECAAAECBAgQIECAgAHADxAgQIAAAQIECBAgQIAAAQIECBAgQIAAgaCAASBYqkgECBAgQIAAAQIECBAgQIAAAQIECBAgQMAA4AcIECBAgAABAgQIECBAgAABAgQIECBAgEBQwAAQLFUkAgQIECBAgAABAgQIECBAgAABAgQIECBgAPADBAgQIECAAAECBAgQIECAAAECBAgQIEAgKGAACJYqEgECBAgQIECAAAECBAgQIECAAAECBAgQMAD4AQIECBAgQIAAAQIECBAgQIAAAQIECBAgEBQwAARLFYkAAQIECBAgQIAAAQIECBAgQIAAAQIECBgA/AABAgQIECBAgAABAgQIECBAgAABAgQIEAgKGACCpYpEgAABAgQIECBAgAABAgQIECBAgAABAgQMAH6AAAECBAgQIECAAAECBAgQIECAAAECBAgEBQwAwVJFIkCAAAECBAgQIECAAAECBAgQIECAAAECF4OYBXylxoYQAAAAAElFTkSuQmCC"/></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 求人まとめ
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: タスクたまっているのまとめ
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2024/3月出費
+BODY:
+<div><h1>2024/</h1><h1>3</h1><h1>月出費</h1></div>
+<div><br></div>
+<div><h2>3/5</h2><h2>プロミス</h2></div>
+<div>ーーーーーー</div>
+<div>13000円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><h2>3/6</h2><h2>アコム</h2></div>
+<div>ーーーーーー</div>
+<div>15000円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><h2>3/1</h2><h2>1</h2><h2><br></h2></div>
+<div><h3>dカード</h3></div>
+<div>ーーーーーー</div>
+<div>114,014円（確定)</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>3</h2><h2>/13(楽天カード)</h2></div>
+<div>Beeミュージックスクール月謝</div>
+<div>ーーーーーー</div>
+<div>39228円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>3</h1><h1>/26</h1></div>
+<div><h2>メルペイ</h2></div>
+<div>ーーーーーー</div>
+<div>125,910円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><h2>Amazonカード</h2></div>
+<div>ーーーーーーー</div>
+<div>114,196円(未確定、20日？まで変更可)</div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>3/2</h1><h1>6</h1><h1>合計金額</h1></div>
+<div>ーーーーーーー</div>
+<div>240,106円</div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><h1>3/</h1><h1>27</h1></div>
+<div><h2>家賃(三井住友銀行)</h2></div>
+<div>ーーーーーーー</div>
+<div>74500円</div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><h2>シアーミュージックスクール月謝(ゆうちょ口座)</h2></div>
+<div>ーーーーーーーー</div>
+<div>17600円</div>
+<div>ーーーーーーーー</div>
+<div><br></div>
+<div><h2>カルド</h2></div>
+<div>ーーーーーーーー</div>
+<div>15990円</div>
+<div>ーーーーーーーー</div>
+<div><br></div>
+<div><h2>楽天カード</h2></div>
+<div>ーーーーーー</div>
+<div>286,435円(19日まで変更可能)</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><h1>3</h1><h1>/</h1><h1>27合計金額</h1></div>
+<div>ーーーーーーー</div>
+<div>394,525円</div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><h1><br></h1></div>
+<div><h1>3/</h1><h1>26.27合計</h1></div>
+<div>ーーーーーー<br></div>
+<div>634,631円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>１ヶ月合計金額(</h1><h1>3/</h1><h1>1</h1><h1>2</h1><h1>現在)</h1></div>
+<div>ーーーーーー<br></div>
+<div>776645円</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div><h2>手元にある現金（</h2><h2>3/1</h2><h2>2</h2><h2>現在)</h2></div>
+<div>ーーーーーーー</div>
+<div>3,038,583円<br></div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><h2>稼げる予定の金額</h2></div>
+<div>ーーーーーー</div>
+<div>0</div>
+<div>ーーーーーー</div>
+<div><br></div>
+<div><h2>差額(</h2><h2>3/</h2><h2>1</h2><h2>2</h2><h2>現在)</h2></div>
+<div>ーーーーーーー</div>
+<div>2,261,938円</div>
+<div>ーーーーーーー</div>
+<div><br></div>
+<div><br></div>
+<div> </div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: さらに表示の表示方法
+BODY:
+<div><h1>さ</h1><h1>らに</h1><h1>表示</h1><h1>の</h1><h1>表示</h1><h1>方法</h1></div>
+<div><br></div>
+<div><h2>✨️</h2><h2>実は</h2><h2>ど</h2><h2>こから</h2><h2>さらに</h2><h2>表示にす</h2><h2>る</h2><h2>か、</h2><h2>調整出来る</h2><h2><br></h2></div>
+<div><br></div>
+<div>ずっとスペース押していく</div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 35万
+BODY:
+<div><h1>35</h1><h1>万</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 何を求めているか？がふたつあった
+BODY:
+<div><br></div>
+<div><br></div>
+<div>何を求めているか？がふたつあった</div>
+<div>そこを書いたうえで<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 親からお金を貰えないとしたら
+BODY:
+<div><h1>親から</h1><h1>お金を</h1><h1>貰えない</h1><h1>としたら</h1><h1><br></h1></div>
+<ul>
+<li>風エスに戻って稼ぐ(月40万以上)<br></li>
+<li>やりつつも、待機中とかにコンテンツ販売で1円でも多く稼ぎがでるようにする<br></li>
+<li>講師業の勉強しつつ、講師でのお金稼ぎもできるようにする<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: ききたいこと
+BODY:
+<div><h1>ききた</h1><h1>いこと</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: @もか さん
+BODY:
+<div>@もか さん</div>
+<div>おつかれさまです！</div>
+<div><br></div>
+<div>①もかさんの0:00の投稿コメントの一番上にスプレッドシートのリンクを貼り付けお願いします！</div>
+<div>縦の「…」をタップして「メッセージを編集」で編集可能です。</div>
+<div><br></div>
+<div>スプレッドシートは「リンクを知っている全員」が「編集可能」になっていることをご確認ください🙇‍♀️</div>
+<div><br></div>
+<div>②聞きたいことを箇条書きにして、なぜ聞きたいのか理由を簡単にまとめてGoogleドキュメント（全員編集可能）の状態でリンクを提出いただけますでしょうか？（全体で2000文字程度）</div>
+<div><br></div>
+<div>いずれも面談前日までには投稿お願いします。</div>
+<div><br></div>
+<div>面談時間は35分間となります。</div>
+<div>スムーズな進行のため情報集約にご協力お願いします<br></div>
+<div><br></div>
+<div><br></div>
+<div>②聞きたいことを箇条書きにして、なぜ聞きたいのか理由を簡単にまとめてGoogleドキュメント（全員編集可能）の状態でリンクを提出いただけますでしょうか？（全体で2000文字程度）<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: https://utlink.jp/l/oYdeP0IeA4MP
+BODY:
+<div>https://utlink.jp/l/oYdeP0IeA4MP<br></div>
+<div><br></div>
+<div><br></div>
+<div>名前<br></div>
+<div>最近買ったもの<br></div>
+<div>最近悩んでること<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: サビ前のグリッサンドは全部任せる
+BODY:
+<div><br></div>
+<div><br></div>
+<div>サビ前のグリッサンドは全部任せる</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2/13やること
+BODY:
+<div><h1>2/13</h1><h1>やるこ</h1><h1>と</h1><h1><br></h1></div>
+<ul>
+<li>12:30-14:30ボーカルレッスン</li>
+<li>15時〜板橋医院ピル処方</li>
+<li>16時すぎ〜カーブス<br></li>
+<li>かえって早めに風呂、ご飯<br></li>
+<li>作業19時くらいから<br></li>
+<li>ブレインダンプ書ききって出来たら<br></li>
+<li>ブレインダンプ後の流れ確認</li>
+<li>ブレインダンプ提出・MTG調整まで、終わらなくてもMTGの後日付変わる前にやる<br></li>
+<li>21時MTG<br></li>
+</ul>
+<div><br></div>
+<div><br></div>
+<div><h2>スキマ時間に</h2><h2><br></h2></div>
+<ul>
+<li>サマリーボックスたくと家に取り寄せ<br></li>
+<li>シリカ解約<br></li>
+<li>すなおさんのリサーチTIPS買う<br></li>
+<li>すなおさんTIPSのシート全部スプレッドシートにいれる<br></li>
+<li>🗓2月末までの予定決めてないの入れる<br></li>
+<li>💆‍♀️仕事の方向性どうするか決める時間</li>
+<li>🎸ギターの時間</li>
+<li>🎶ボーカルレッスンの時間</li>
+<li>🧘‍♀️ヨガの時間</li>
+<li>💪🏻ジムの時間</li>
+<li>🤙佐川にニトリの布団こっちに送るように問い合わせる</li>
+<li>🛒べっどのうえで作業するように折りたたみ机さがす、買う<br></li>
+</ul>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<ul>
+<li>帰ったら風呂</li>
+<li>🎸ギター弾く<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2/12やること
+BODY:
+<div><h1>2</h1><h1>/12や</h1><h1>る</h1><h1>こと</h1><h1><br></h1></div>
+<ul>
+<li>💰お金の計算する<br></li>
+<li>💰相続金連絡<br></li>
+<li>💰お金問題どうするか確認<br></li>
+<li>2月末までに相続金振込の連絡来なかったらもう50万請求<br></li>
+<li>✨️明日〜今月末までの予定入れる<br></li>
+<li>仕事の方向性どうするか決める時間</li>
+<li>ギターの時間<br></li>
+<li>ボーカルレッスンの時間</li>
+<li>ヨガの時間</li>
+<li>ジムの時間<br></li>
+<li>🤙佐川にニトリの布団こっちに送るように問い合わせる<br></li>
+<li>🛒べっどのうえで作業するように折りたたみ机さがす、買う<br></li>
+<li>💻作業しに南口のドトールいく<br></li>
+<li>帰ったら風呂</li>
+<li>🎸ギター弾く<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 季節が変わるから春が来るんじゃない。変わるから春が来る。
+BODY:
+<div><h1>季節</h1><h1>が</h1><h1>変わるから春が</h1><h1>来るんじゃない。</h1><h1>変わるから</h1><h1>春が来る。</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 本番までにやること
+BODY:
+<div><h1>本番までに</h1><h1>やる</h1><h1>こと</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 人の優しさに生かされていた
+BODY:
+<div><h1>人の優しさに</h1><h1>生かされていた</h1></div>
+<div><br></div>
+<div>ミモザの相手軸の彼だからすごく素敵だと思う</div>
+<div>と言われた時、</div>
+<div><br></div>
+<div>彼の優しさに生かされていたなあと、<br></div>
+<div><br></div>
+<div>私を傷つけたのも人だけど、<br></div>
+<div>私を救ったのもまた人だなぁと。</div>
+<div><br></div>
+<div>今度はその優しさで他の人を救いたい。<br></div>
+<div><br></div>
+<div>私は心の痛みをとる施術者になりたい。<br></div>
+<div><br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 池上へ持っていく
+BODY:
+<div><h1>池上</h1><h1>へ</h1><h1>持っていく</h1><h1><br></h1></div>
+<ul>
+<li>iPad<br></li>
+<li>ヨガパンツ✖️2<br></li>
+<li>シャツ✖️2<br></li>
+<li>化粧水<br></li>
+<li>美容液</li>
+<li>保湿ジェル<br></li>
+<li>ビタミン何個か</li>
+<li>ラバのスーパーフード何個か<br></li>
+<li>デイリーワンいくつか<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 今後どうするか
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: ヘビーローテーション歌い分け
+BODY:
+<div><h1>ヘビーローテーション</h1><h1>歌い分け</h1><h1><br></h1></div>
+<div><br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 24/1/17 12:45-13:30 高小野先生
+BODY:
+<div><h1>24/1/</h1><h1>1</h1><h1>7 </h1><h1>12:45-</h1><h1>13:30</h1><h1> </h1><h1>高</h1><h1>小野先生</h1><h1> </h1><h1><br></h1></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>前回より全体的に短め、<br></div>
+<div>発音をする発声練習もでてきた</div>
+<div><br></div>
+<div>生まれつきの喉の強さもある</div>
+<div>高小野先生の統計的には、<br></div>
+<div>喉が弱い人は10人中に10人中いい声と言われる人がおおい</div>
+<div><br></div>
+<div>能力高いけど故障しやすいプロスポーツ選手とかいる、そういう感じ<br></div>
+<div><br></div>
+<div>あとは骨格、</div>
+<div>頭蓋骨の形とかそういうのでも響かせ方？が変わる</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/1/12 高小野先生
+BODY:
+<div><h1>23/</h1><h1>1/</h1><h1>12 </h1><h1>高</h1><h1>小野</h1><h1>先生</h1></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 買い物
+BODY:
+<div><h1>買い物</h1></div>
+<ul>
+<li>ウィダー</li>
+<li>ヨーグルト<br></li>
+<li>アールワン</li>
+<li>お粥<br></li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 前世に戻れるSPA
+BODY:
+<div><h1>前世に</h1><h1>戻れるSPA</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 池上家から持っていくもの
+BODY:
+<div><h1>池上</h1><h1>家から</h1><h1>持っていくもの</h1></div>
+<ul>
+<li>インダーム化粧品1式</li>
+<li>大晦日にかった服<br></li>
+<li>病院の薬1式<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 今年中にやること(仕事)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 奥の細道1-1 奥の細道の全体像を共有
+BODY:
+<div><h1>奥の細道</h1><h1>1</h1><h1>-1 </h1><h1>奥の細道の</h1><h1>全体像</h1><h1>を</h1><h1>共有</h1><h1><br></h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 大晦日買いたいもの
+BODY:
+<div><h1>大晦日</h1><h1>買いたいもの</h1></div>
+<ul>
+<li>黒のショートダウン<br></li>
+<li>ベーシックに使いまわせる上下(特に上)<br></li>
+<li>足首がキレイにでて着回せるショートブーツ<br></li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: チン獸遣いの𓏸𓏸
+BODY:
+<div><h1>チン</h1><h1>獸</h1><h1>遣いの</h1><h1>𓏸𓏸</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 【仕事】お金が入ったらやることリスト
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: さかもとしんいち様2023-03-26⇒06-09⇒08-10→8/17
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 196074150300
+BODY:
+<div><h1>1</h1><h1>9</h1><h1>60</h1><h1>74</h1><h1>15</h1><h1>0300</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 出張施術
+BODY:
+<div><h1>出張</h1><h1>施術</h1></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12/26いろはラボ撮影
+BODY:
+<div><h1>12/</h1><h1>26</h1><h1>いろは</h1><h1>ラボ</h1><h1>撮影</h1></div>
+<div><h1>音声でとる</h1><h1>と</h1><h1>こ</h1></div>
+<div><h1><br></h1></div>
+<div><h1>自己紹介</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 接客に困るお客様タイプ別対処法
+BODY:
+<div>接客に困るお客様タイプ別対処法<br></div>
+<div>黙ってるお客様<br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: いろはLABO動画のリクエスト内容
+BODY:
+<div><h1>い</h1><h1>ろは</h1><h1>LABO</h1><h1>動画の</h1><h1>リクエスト</h1><h1>内容</h1><h1><br></h1></div>
+<div>前に小倉さんの新人講習用オイルトリートメント動画でやった解剖学解説、どこ伸びてるのかのやつを</div>
+<div>タイ式バージョンでほしい<br></div>
+<div>出来ればディプロマやひとみ先生、今まで習ったやつバージョン</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 求人条件
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/1/31 エステ一覧
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 求人まとめ(メンエス)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/12/26 ゆう先生打ち合わせ
+BODY:
+<div><h1>23</h1><h1>/</h1><h1>12/</h1><h1>26</h1><h1> </h1><h1>ゆう先生</h1><h1>打ち合わせ</h1><h1><br></h1></div>
+<div><br></div>
+<div>施術バッグ<br></div>
+<div>施術着<br></div>
+<div><br></div>
+<div><h1><br></h1></div>
+<div>脱線しないように</div>
+<div>伝えたいの、これでよかったかな、こうしようかな<br></div>
+<div><br></div>
+<div>時間の限り、ここのとこ<br></div>
+<div><br></div>
+<div>固定カメラでいくのと、<br></div>
+<div><br></div>
+<div>違う角度で2つ</div>
+<div><br></div>
+<div>移動、固定色々とる</div>
+<div><br></div>
+<div>施術だとポジ取りに時間かかるけど<br></div>
+<div>このパターン<br></div>
+<div><br></div>
+<div>人がかぶってみえない<br></div>
+<div><br></div>
+<div>3脚がおけるスペースあるか？<br></div>
+<div>入口からとるってなったら<br></div>
+<div><br></div>
+<div>どっちのアングルでもとっておく<br></div>
+<div><br></div>
+<div>撮る前に１回ながれシュミレーションしてみる</div>
+<div><br></div>
+<div>実際に回していきますか</div>
+<div><br></div>
+<div>ここわけでとる</div>
+<div><br></div>
+<div>編集で繋ぎ合わせて<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>持ち物どうする？<br></div>
+<div><br></div>
+<div>移動は車で移動してます<br></div>
+<div><br></div>
+<div>お客様ノート<br></div>
+<div>ブログ機能あるからそこに書いてもらう</div>
+<div><br></div>
+<div>まどかさん接客のやつあるけど<br></div>
+<div><br></div>
+<div><br></div>
+<div>すごいよね、みんなバンバン教えてくれる<br></div>
+<div>出し惜しみしてる</div>
+<div>ライバルだから教えられないわ</div>
+<div><br></div>
+<div>接客教えて欲しい<br></div>
+<div><br></div>
+<div>正解がない、色んな正解がある世界</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>説明もラク<br></div>
+<div><br></div>
+<div>準備のところで説明すれば？</div>
+<div><br></div>
+<div>使い方<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>MAX10分にしたい<br></div>
+<div><br></div>
+<div>15-20分だと長い</div>
+<div><br></div>
+<div>項目として15個あるから1分ずつ話しても15分になる<br></div>
+<div><br></div>
+<div>出張型がどういうものなのか？<br></div>
+<div>わかればいい<br></div>
+<div><br></div>
+<div>店で色々使うものに違いに大きな差があるのなら別動画<br></div>
+<div><br></div>
+<div>これ知ってれば楽だよ！みたいなのはいれた方がいいけど</div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>箇条書きで話した方いいやつ</div>
+<div>メモにまとめて、<br></div>
+<div>スクショしてはる<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>お客様ノート➡️ブログ形式<br></div>
+<div>荷物からの派生<br></div>
+<div>出張ならではの困った！エピソード<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>ワークショップ<br></div>
+<div>一日かけて色んな講師がいろんな講習する<br></div>
+<div>オンラインで流せる<br></div>
+<div><br></div>
+<div>講師が増え<br></div>
+<div>慣れて広まって<br></div>
+<div><br></div>
+<div>小倉さん帰ってきた頃に何か<br></div>
+<div>練習会とかもフランク<br></div>
+<div><br></div>
+<div>まどかさんみたいな感じ<br></div>
+<div>接客動画<br></div>
+<div>はじめてだから見たくない<br></div>
+<div><br></div>
+<div>タイプちがうけど<br></div>
+<div>まどかさん的な感じ<br></div>
+<div><br></div>
+<div>人気でもあったし、技術もあるけど1個うえにいった<br></div>
+<div>花輪まどか、ひとつのコンテンツになれてる</div>
+<div><br></div>
+<div>セラピストからもお客様からも慕われて価値を感じて<br></div>
+<div><br></div>
+<div>結の客層良くなった<br></div>
+<div><br></div>
+<div>まどかさんにクソ客つかない<br></div>
+<div><br></div>
+<div>みんな憧れ、色んな思いもってる<br></div>
+<div><br></div>
+<div>色んな人にシェアして技術高めてる</div>
+<div><br></div>
+<div>マインドが近い<br></div>
+<div><br></div>
+<div>プレイヤーとしての姿はしらないけど</div>
+<div>取り組むサポート<br></div>
+<div><br></div>
+<div>ドライのときサポートしてくれてた</div>
+<div>もう大丈夫だなってふうに感じた</div>
+<div><br></div>
+<div>実技的な<br></div>
+<div><br></div>
+<div>未だにみんなまだまだだと思ってる<br></div>
+<div>ゴールのない仕事だから</div>
+<div>いつになってもそう思いながらする</div>
+<div><br></div>
+<div>そういう人が伸びる<br></div>
+<div><br></div>
+<div>結果出る喜びと<br></div>
+<div>頼られる喜びがある<br></div>
+<div><br></div>
+<div>性格によるけど<br></div>
+<div><br></div>
+<div>人が支えになれてる<br></div>
+<div>存在価値を感じられる瞬間<br></div>
+<div><br></div>
+<div><br></div>
+<div>1本とれたらいいな<br></div>
+<div><br></div>
+<div>11時〜17時<br></div>
+<div><br></div>
+<div><br></div>
+<div>12-16時<br></div>
+<div>つかれるから4時間くらい<br></div>
+<div>写されるし残されるから余裕もって<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 学びたいこと、学ぶ内容一覧
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/12/20  施術見学会
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12/20参加者さん
+BODY:
+<div><h1>1</h1><h1>2/</h1><h1>20</h1><h1>参加者さん</h1><h1><br></h1></div>
+<div>あおいちゃん<br></div>
+<div><br></div>
+<div><br></div>
+<div>すずさん</div>
+<div>群馬2年くらい</div>
+<div><br></div>
+<div>望月さん<br></div>
+<div>2月からタイ式のお店で働く<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>中央区<br></div>
+<div>オイルしかしたことない、幅広げたい<br></div>
+<div><br></div>
+<div>さくらさん</div>
+<div>横浜<br></div>
+<div>初心者、施術幅広げたい<br></div>
+<div>解剖学いった<br></div>
+<div><br></div>
+<div><br></div>
+<div>ゆい<br></div>
+<div>3年<br></div>
+<div>岩城<br></div>
+<div>茨城すみ</div>
+<div>講座があるから学びにきた<br></div>
+<div><br></div>
+<div><br></div>
+<div>浅田さん<br></div>
+<div>タイとアユールヴェーダの融合の大会に出た</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/12/19
+BODY:
+<div><h1>23/</h1><h1>12/</h1><h1>19</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 期間限定セール: 【新登場】 スマートウォッチ 腕時計 歩数計 腕上げ点灯 iPhone/Android対応 着信通知(AC12)…
+BODY:
+<div><h1>期間限定セール: 【新登場】 スマートウォッチ 腕時計 歩数計 腕上げ点灯 iPhone/Android対応 着信通知(AC12) https://amzn.asia/d/cCdYJf4</h1></div>
+<div><a href=https://amzn.asia/d/cCdYJf4>https://amzn.asia/d/cCdYJf4</a><h1><br></h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12-①あっという間にコンテンツを量産できる「アドリブ」スキルの獲得
+BODY:
+<div><h1>12-</h1><h1>①</h1><h1>あっという間に</h1><h1>コンテンツを</h1><h1>量産できる</h1><h1>「</h1><h1>アドリブ</h1><h1>」</h1><h1>スキル</h1><h1>の</h1><h1>獲得</h1></div>
+<div><br></div>
+<div>なぜふっさんがたくさんコンテンツつくれるの？</div>
+<div>このお陰<br></div>
+<div><br></div>
+<div>スキルポイントをふった、これを磨くために時間労力そそいだ</div>
+<div><br></div>
+<div>どれだけ台本なしにつくれるか？<br></div>
+<div><br></div>
+<div><br></div>
+<div>文章でいうと1時間5000文字とかいける</div>
+<div><br></div>
+<div>海外にいくときとかタピオカ屋してた時の2時間の新幹線とか、移動中とか作れる<br></div>
+<div><br></div>
+<div><br></div>
+<div>キーボード観ずに打てるやり方とかも必要</div>
+<div><br></div>
+<div><br></div>
+<div>東村あきこさん</div>
+<div>かくかくしかじか<br></div>
+<div>自伝をかいた漫画<br></div>
+<div>漫画家になる為の裏話<br></div>
+<div><br></div>
+<div>文章をこれで極めようと思った<br></div>
+<div><br></div>
+<div>プライベートも充実させたいと思う人</div>
+<div>ママ友ともご飯行きたい</div>
+<div>それ自体がリサーチになる</div>
+<div><br></div>
+<div>婚期ギリギリの人から相談される</div>
+<div><br></div>
+<div>ノンフィクション、共感コンテンツに振り切りたい<br></div>
+<div><br></div>
+<div>そこで、居酒屋とかの小さいところでも、移動しながらでも描けるスキルをつけた<br></div>
+<div><br></div>
+<div><br></div>
+<div>飲んでる時にちょっと漫画書くわ、って書く<br></div>
+<div><br></div>
+<div>1発で絵を描くというスキルもある<br></div>
+<div>扉絵とか<br></div>
+<div><br></div>
+<div><br></div>
+<div>東村アキコ、一発撮り</div>
+<div><br></div>
+<div><br></div>
+<div>白い紙を眺めてて、思い立ったらすぐかく<br></div>
+<div><br></div>
+<div>設計を考えてる<br></div>
+<div><br></div>
+<div><br></div>
+<div>左ききのエレンとかもそう</div>
+<div>絵を描くだけが全てじゃない<br></div>
+<div><br></div>
+<div>頭の中で構成を描く</div>
+<div><br></div>
+<div>既に絵の構成をみている<br></div>
+<div>白いキャンパス見るだけで描いてるのと一緒になる<br></div>
+<div><br></div>
+<div>書く時間より<br></div>
+<div>勉強する時間あげたほうがコンテンツ力あがる<br></div>
+<div><br></div>
+<div>コンテンツ自体はアドリブで分も動画もとるようにする</div>
+<div><br></div>
+<div>残りの時間は</div>
+<div>色んな人と会って情報収集、コンテンツ消化する<br></div>
+<div><br></div>
+<div>共感コンテンツあつめる<br></div>
+<div>経験コンテンツみてる</div>
+<div><br></div>
+<div>実際に実践して、コンテンツにだして、<br></div>
+<div>読者のいろんな反応が見れる<br></div>
+<div><br></div>
+<div><br></div>
+<div>事例をあつめることに特化した方がいい</div>
+<div><br></div>
+<div><br></div>
+<div>こういうこと出来るひとに、<br></div>
+<div>台本書いてやってる人たちは勝てない</div>
+<div><br></div>
+<div><br></div>
+<div>フリートークだけでファンつくれる<br></div>
+<div>とんでもない能力<br></div>
+<div><br></div>
+<div>懇親会いけば焼け野原になる<br></div>
+<div>みんなメルマガ登録して、買ってくれる<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>第1線でやってる経営者にはしょぼさ見抜かれるかもしれないけど認められる自信はある<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>なぜアドリブを鍛えようとしたのか？<br></div>
+<div><br></div>
+<div>写真<br></div>
+<div><br></div>
+<div>ギターと歌だけでファン作れるのすごいと<br></div>
+<div><br></div>
+<div><br></div>
+<div>大手じゃない、個人だから個人の力高めるしかない<br></div>
+<div>一発撮りでいいコンテンツ作れるようになるべきだとおもった<br></div>
+<div><br></div>
+<div>音楽とかも型通り<br></div>
+<div>守破離、真似して自分の歌詞とか入れていくといい音楽家になれる</div>
+<div><br></div>
+<div>芸術の中でも守破離、マネからはいるといわれてる</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 11-②文章を書く、トーク組み立てるときの思考回路を分解してしゃべってみた
+BODY:
+<div><h1>11-</h1><h1>②</h1><h1>文章を書く、トーク組み立てるときの思考回路を分解してしゃべってみた</h1><h1><br></h1></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>アイデアに</h2><h2>頼らない</h2><h2><br></h2></div>
+<div>最初にいきなりアドリブ難しい<br></div>
+<div>メモ書きつくると便利</div>
+<div>アイディアだすのに時間かけてもいい</div>
+<div><br></div>
+<div>何もない状態で文章かこうとして<br></div>
+<div>いいたいことブレたり何書けばいいかわからなくて迷ったりするよりもいい</div>
+<div><br></div>
+<div>一旦リサーチに戻ったりマインドマップつくるのに戻ってもいい<br></div>
+<div><br></div>
+<div><br></div>
+<div>あえて型にもどることで中身ぶれないようにしてた<br></div>
+<div><br></div>
+<div>時間をかけるの大切</div>
+<div><br></div>
+<div>この教材作る時<br></div>
+<div>マインドマップ作りに時間かけた</div>
+<div><br></div>
+<div>何を話すか？大事にしてる</div>
+<div><br></div>
+<div>片っ端にノウハウいれてもいい</div>
+<div>それだと混乱しちゃう<br></div>
+<div><br></div>
+<div>情報整理したり伝わるように順番考えるようにするのに時間使う<br></div>
+<div><br></div>
+<div><br></div>
+<div>上から順番にみたら</div>
+<div>点と点がつながって<br></div>
+<div>脳がスパークして一気にレベル上がるようにしてる<br></div>
+<div>抽象と具体的アナロジーでつくってる<br></div>
+<div><br></div>
+<div>型を守ることで調子とかの波が無くなる<br></div>
+<div><br></div>
+<div><br></div>
+<div>絶好調のときしか発揮できない能力は脆い<br></div>
+<div>会社する時だって同じ</div>
+<div><br></div>
+<div>コロナの時とかほか潰れるのに、<br></div>
+<div>ディズニーはいきのこってた<br></div>
+<div><br></div>
+<div>半年分キャッシュフロー持つようにしてた<br></div>
+<div><br></div>
+<div>固定費けずって、<br></div>
+<div>永らえるようにした<br></div>
+<div><br></div>
+<div><br></div>
+<div>最小限の気力、やる気でも出せるスキルが本物</div>
+<div><br></div>
+<div><br></div>
+<div>文章とかトークはひらめきじゃない<br></div>
+<div>ひらめきのように見えて、過去に学んだもの<br></div>
+<div><br></div>
+<div><br></div>
+<div>フリーライティング、トークの前には型がある<br></div>
+<div><br></div>
+<div>普段から文章の事例をストックしてる<br></div>
+<div><br></div>
+<div><br></div>
+<div>ラッパー自己啓発いれてる<br></div>
+<div>きくと勉強なる<br></div>
+<div><br></div>
+<div>Imaryuのインファイト<br></div>
+<div>⇒ネガティブは挑戦してる証拠<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>とはいえ、準備大事</div>
+<div>写真<br></div>
+<div><br></div>
+<div>ワンコンテンツワンメッセージ<br></div>
+<div>このコンテンツで伝えたい時は<br></div>
+<div>自分の絶好調のタイミングに不完全でいいなら文章書いて欲しい</div>
+<div>不完全でも体調わるくても文書書けるようになってほしい</div>
+<div><br></div>
+<div>ワンメッセージ<br></div>
+<div>一貫したコンテンツに対するメッセージを決める</div>
+<div><br></div>
+<div>ここで八割くらいいい文になるか決まる<br></div>
+<div><br></div>
+<div>みんな最高傑作を書こうとする</div>
+<div>八割でいい<br></div>
+<div>ボブサップくらいあれば片手で倒せる</div>
+<div><br></div>
+<div>めちゃくちゃ強いひとは手抜いても倒せる<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>教材のマインドマップ作りとリサーチに時間をかけてる<br></div>
+<div><br></div>
+<div>調子がいい時はいきなり書かない<br></div>
+<div>結論とメッセージ考えたり、</div>
+<div>インプットして何を伝えようか考える</div>
+<div><br></div>
+<div>下準備するから文章を書くこと自体は時間そこまでかけてない<br></div>
+<div>クオリティも高い<br></div>
+<div><br></div>
+<div><br></div>
+<div>マインドマップ作りとリサーチに時間かける<br></div>
+<div>➡️ここでコンテンツ力<br></div>
+<div><br></div>
+<div><br></div>
+<div>短い時間で良質なコンテンツ作れる</div>
+<div>そのスキルを手と口に宿してる<br></div>
+<div><br></div>
+<div>知識ゲーになる<br></div>
+<div>本読んだり<br></div>
+<div>情報で優位性つくるだけになる</div>
+<div><br></div>
+<div><br></div>
+<div>型、基礎大事</div>
+<div>頭に経験と知識入れまくる<br></div>
+<div><br></div>
+<div><br></div>
+<div>大前提の文章基礎<br></div>
+<div>写真<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>型とおりになってるか？<br></div>
+<div><br></div>
+<div>なるべく削る<br></div>
+<div>ボリューム増えちゃう人いる</div>
+<div><br></div>
+<div>文章沢山かけるようになると<br></div>
+<div>量増やすことが正義だと思ってしまう<br></div>
+<div><br></div>
+<div>悪だと思う<br></div>
+<div><br></div>
+<div>迷いやすい、混乱する<br></div>
+<div><br></div>
+<div><br></div>
+<div>情報の多さに優位性ない</div>
+<div><br></div>
+<div>発信する人増えたし検索したらいくらでもでる<br></div>
+<div><br></div>
+<div><br></div>
+<div>一日に生み出される情報量、天文学的にちがう</div>
+<div><br></div>
+<div>情報爆発<br></div>
+<div>AIが増える<br></div>
+<div>コンテンツ無限に作れるようになる<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>なるべく削る、<br></div>
+<div>ふっさんも1割くらいに抑えてる<br></div>
+<div><br></div>
+<div>ボリューム多くなりすぎると混乱するから削る、とにかく削る<br></div>
+<div><br></div>
+<div><br></div>
+<div>余計な言葉、2重言葉とか<br></div>
+<div>否定語とか分からないから肯定にかえる<br></div>
+<div><br></div>
+<div>抽象的な表現はあまりつかわない、まとめる時<br></div>
+<div><br></div>
+<div>イメージつかないから、<br></div>
+<div><br></div>
+<div><h3>と</h3><h3>にかく</h3><h3>具体</h3><h3>具体具体</h3><h3><br></h3></div>
+<div>✨️削りながら具体的にする<br></div>
+<div><h3><br></h3></div>
+<div><br></div>
+<div>✨️シンプルにプロフィール作り込むの大切<br></div>
+<div>ROAS 500ぱーせんと</div>
+<div>広告100万いったら500万出てくる</div>
+<div><br></div>
+<div>頭いい<br></div>
+<div>自己紹介作りこんだ<br></div>
+<div><br></div>
+<div>とにかく具体的に書いた<br></div>
+<div><br></div>
+<div>みんな詳しく書かない<br></div>
+<div>幼少期のときのこととか書かない</div>
+<div>ヒーローズジャーニーこと細かくかいてない <br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h3>誰にでもわかる言葉でかく</h3><h3><br></h3></div>
+<div><h3>✨️</h3><h3>情報</h3><h3>が相手に届くだけで面白い</h3><h3><br></h3></div>
+<div><br></div>
+<div>わかりやすささえ極めてれば面白くなくてもある程度売れる<br></div>
+<div><br></div>
+<div>専門用語とか使わない</div>
+<div>チャーンレート（離脱率）<br></div>
+<div><br></div>
+<div><br></div>
+<div>わかりやすさ、伝わってるか？<br></div>
+<div><br></div>
+<div>フリートークマスターするとコンテンツ作り爆速になる<br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12/17やること
+BODY:
+<div><h1>12</h1><h1>/17や</h1><h1>ること</h1><h1><br></h1></div>
+<ul>
+<li>12:30〜13:30カルドアロマリラックスヨガ<br></li>
+<li>14:30カフェに移動<br></li>
+<li>動画の内容考える<br></li>
+<li>別メモの内容一通りこなす(できる所まで)<br></li>
+<li>仕事の名前決めるのの名前集め<br></li>
+<li>名前付けるのにどんなのが良いか、の話<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12/12やること
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: チルザンマイ
+BODY:
+<div>チルザンマイ</div>
+<div>チルピスト<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: エステに愛されタイ式に愛された女
+BODY:
+<div><h1>エステに</h1><h1>愛され</h1><h1>タイ式</h1><h1>に</h1><h1>愛された</h1><h1>女</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 池上に帰ったら持ってくるもの
+BODY:
+<div>池上に帰ったら持ってくるもの<br></div>
+<ul>
+<li>チューナー</li>
+<li>ボタン電池(なければ買う)<br></li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 道塚先生出勤日・公休日
+BODY:
+<div><h1>道</h1><h1>塚</h1><h1>先生</h1><h1>出勤</h1><h1>日</h1><h1>・</h1><h1>公休日</h1><h1><br></h1></div>
+<div><h1><br></h1></div>
+<div><h1>公休日⇒</h1><h1>水木</h1><h1><br></h1></div>
+<div><h1>出勤日</h1><h1>⇒</h1><h1>それ以外の</h1><h1>オープンラスト</h1><h1><br></h1></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 1月の固定費
+BODY:
+<div><h1>1</h1><h1>月</h1><h1>の</h1><h1>固定費</h1><h1><br></h1></div>
+<div><br></div>
+<div><h2><br></h2></div>
+<div><h2>✨生活費</h2></div>
+<div>家賃・光熱費<br></div>
+<div>ーーーーーーー<br></div>
+<div>74500円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div>交通費<br></div>
+<div>ーーーーーーー<br></div>
+<div>20000円くらい<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>外食費<br></div>
+<div>ーーーーーーー<br></div>
+<div>25000円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>食費<br></div>
+<div>ーーーーーーー<br></div>
+<div>20000円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>日用品<br></div>
+<div>ーーーーーーー<br></div>
+<div>30000円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>交際費<br></div>
+<div>ーーーーーーー<br></div>
+<div>20000円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>合計</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>189500円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>💆🏻‍♀️</h2><h2>美容系</h2><h2><br></h2></div>
+<div><br></div>
+<div>化粧品<br></div>
+<div>ーーーーーーー<br></div>
+<div><h3>【</h3><h3>今月</h3><h3>0</h3><h3>円</h3><h3>】</h3><h3><br></h3></div>
+<div>ひと月あたり15000円くらい(ユンスは含めない)<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div>ミモザお手入れ代<br></div>
+<div>ーーーーーー<br></div>
+<div>8800円(クレジットカード払いするので更新月のタイミングに12ヶ月分発生)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><h2><br></h2></div>
+<div>ユンス<br></div>
+<div>ーーーーーー<br></div>
+<div>7128円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>LAVAバランス栄養食<br></div>
+<div>ーーーーーーー<br></div>
+<div><h3>【</h3><h3>恐らく</h3><h3>今月に</h3><h3>30</h3><h3>00</h3><h3>0</h3><h3>円</h3><h3>】</h3><h3><br></h3></div>
+<div>月10000円くらい（3ヶ月ごと？に請求くるので12月、2月、5月、8月？）<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>合計</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>45928円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h3>💃🎸</h3><h3>習い事系</h3><h3>🧘‍♀️🏃‍♀️</h3><h3><br></h3></div>
+<div><br></div>
+<div><br></div>
+<div>カーブス(楽天カード)<br></div>
+<div>ーーーーーー<br></div>
+<div>8800円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>カーブスプロテイン(楽天カード)<br></div>
+<div>ーーーーーー<br></div>
+<div>5292円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>カルド(ゆうちょ銀行)⚠️2月で解約<br></div>
+<div>ーーーーーー<br></div>
+<div>0円<br></div>
+<div>(2月から半額くらい、3月から16000円くらいかかる)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>LAVA</div>
+<div>ーーーーーーーーーーー<br></div>
+<div>15800円（2年後25/12）<br></div>
+<div>ーーーーーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>✨️ミュージックス(6ヶ月払い、おそらく次は5月か6月に請求くる)<br></div>
+<div>ーーーーーーー<br></div>
+<div>45600円⇒ひと月あたりだと7600円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>ボーカルレッスン2社？増える予定<br></div>
+<div><br></div>
+<div><br></div>
+<div>Beeミュージックスクール<br></div>
+<div>ーーーーーーー<br></div>
+<div>39228円（月6回コース）<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div>シアーミュージックスクール（月4回コース）<br></div>
+<div>ーーーーーーーー<br></div>
+<div>17600円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>合計<br></div>
+<div>ーーーーーーーー<br></div>
+<div>78800円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>💻</h2><h2>ネットビジネス系</h2><h2><br></h2></div>
+<div><br></div>
+<div>フロンティア(24/3まで)<br></div>
+<div>ーーーーーー<br></div>
+<div>17238円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>💆‍♀️</h2><h2>マッサージ業務</h2><h2><br></h2></div>
+<div>いろはラボ<br></div>
+<div>ーーーーー<br></div>
+<div>3980円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div>リフガイドオンライン<br></div>
+<div>ーーーーー<br></div>
+<div>3980円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div>その他講習費<br></div>
+<div>ーーーーーーー<br></div>
+<div>30000円くらい<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><h2>合計</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>55198円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>🎥</h2><h2>サブスク系色々(生活に必要なもの)</h2><h2><br></h2></div>
+<div><br></div>
+<div>ルナルナ<br></div>
+<div>ーーーーー<br></div>
+<div>400円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>Apple2TB </div>
+<div>ーーーーーー<br></div>
+<div>1300円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>Apple</div>
+<div>ーーーーーー<br></div>
+<div>1800円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>ドコモ利用料金(ドコモの保険)<br></div>
+<div>ーーーーーー<br></div>
+<div>1100円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>Amazonダウンロード<br></div>
+<div>ーーーー<br></div>
+<div>1300円<br></div>
+<div>ーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>Adobeアクロプロ<br></div>
+<div>ーーーーーー<br></div>
+<div>1738円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h3>合計</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>6338円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>🍿</h2><h2>サブスク系(趣味のもの)</h2><h2><br></h2></div>
+<div><br></div>
+<div>Dラボ<br></div>
+<div>ーーーーーー<br></div>
+<div>1759円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div>ディズニープラス<br></div>
+<div>ーーーーーー<br></div>
+<div>990円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div>ユーネクスト<br></div>
+<div>ーーーーー<br></div>
+<div>2189円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div>Netflix</div>
+<div>ーーーーー<br></div>
+<div>1490円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>合計<br></div>
+<div>ーーーーーーー<br></div>
+<div>6428円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>全部合計</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>382192円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>30万以内に抑えたい<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2023/1月出費
+BODY:
+<div><h1>2023/</h1><h1>1</h1><h1>月出費</h1><h1><br></h1></div>
+<div><br></div>
+<div><br></div>
+<div><h2>1/1</h2><h2>0</h2><h2><br></h2></div>
+<div><h3>d</h3><h3>カード</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>66248円（確定)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>1/13(楽天カード)</h2><h2><br></h2></div>
+<div><h3>Beeミュージックスクール月謝</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>39228円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>/</h1><h1>2</h1><h1>6</h1><h1><br></h1></div>
+<div><h2>メルペイ</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>4000円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>/</h1><h1>27</h1><h1><br></h1></div>
+<div><h2>家賃(三井住友銀行)27日かも？</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>74500円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>シアーミュージックスクール月謝</h2><h2><br></h2></div>
+<div>ーーーーーーーー<br></div>
+<div>17600円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>/28</h1><h1><br></h1></div>
+<div><h2>楽天カード</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>47570円（12日確定、19まで変更可能)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>Amazon</h2><h2>カード</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>108023円(未確定、22日？まで変更可)<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1><br></h1></div>
+<div><h1>1/26.27.28</h1><h1>合計(家賃が27かも)</h1><h1><br></h1></div>
+<div>ーーーーーー<br></div>
+<div>251693円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>１ヶ月合計金額(12</h1><h1>/11</h1><h1>現在)</h1><h1><br></h1></div>
+<div>ーーーーーー<br></div>
+<div>349941円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>手元にある現金（現在)</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><h2>稼げる予定の金額</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><h2>差額(現在)</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>229,382円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div>もし稼ぎが0なら残額は<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 12/5
+BODY:
+<div><h1>12</h1><h1>/5</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: トラッキングルーティーンワーク
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 第1話達成フォーミュラワーク
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 今まで買った教材一覧
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 返済計画11/16最新
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2023/11月出費
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 返済計画
+BODY:
+<div><h1>返済計画</h1><h1><br></h1></div>
+<div><br></div>
+<div><h2>楽天</h2><h2>の</h2><h2>リボ</h2><h2>確認</h2><h2>(</h2><h2>1</h2><h2>1</h2><h2>月</h2><h2>明細から</h2><h2>みた</h2><h2>リボ払い</h2><h2>の</h2><h2>単純計算</h2><h2>分</h2><h2>)</h2><h2><br></h2></div>
+<div>ーーーーーーーーー<br></div>
+<div>348,857円<br></div>
+<div>ーーーーーーーーー<br></div>
+<div><h2><br></h2></div>
+<div><h2>🙆🏻‍♀️</h2><h2>楽天</h2><h2>の</h2><h2>リボ</h2><h2>確認</h2><h2>(</h2><h2>リボの</h2><h2>ご利用残高</h2><h2>7</h2><h2>5</h2><h2>6</h2><h2>,</h2><h2>0</h2><h2>59</h2><h2>円</h2><h2>➖</h2><h2>分割払い</h2><h2>分枠</h2><h2>2</h2><h2>6</h2><h2>4</h2><h2>,</h2><h2>0</h2><h2>95</h2><h2>円</h2><h2>の</h2><h2>差額</h2><h2>)</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>491,964円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>分割分</h2><h2>合計</h2><h2>確認</h2><h2><br></h2></div>
+<div>ーーーーーーーーー<br></div>
+<div>264,095円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div><h3>分割払い分内訳</h3></div>
+<div>ーーーーーーーーー<br></div>
+<div>ミモザ122,650円<br></div>
+<div>サクラ楽器141,445円<br></div>
+<div>ーーーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>一括分</h2><h2>確認</h2><h2><br></h2></div>
+<div>ーーーーーーーー<br></div>
+<div>158125円<br></div>
+<div>ーーーーーーーー<br></div>
+<div><br></div>
+<div><h2> </h2><h2><br></h2></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 2023/12月出費
+BODY:
+<div><h1>2023/1</h1><h1>2</h1><h1>月出費</h1><h1><br></h1></div>
+<div><br></div>
+<div><h2>1</h2><h2>2/</h2><h2>5</h2><h2><br></h2></div>
+<div><h2>プロミス</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>13000円<br></div>
+<div>ーーーーーー<br></div>
+<div><h2><br></h2></div>
+<div><h2>12/</h2><h2>6</h2><h2><br></h2></div>
+<div><h2>アコム</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>15000円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><h2>1</h2><h2>2/1</h2><h2>0</h2><h2><br></h2></div>
+<div><h3>三菱東京UFJ銀行</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>16512円(確定)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><h3>d</h3><h3>カード</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>45433円（確定)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>2</h1><h1>/10</h1><h1>合計</h1><h1><br></h1></div>
+<div>ーーーーー<br></div>
+<div>61,945円</div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div><h1>1</h1><h1>2</h1><h1>/1-11</h1><h1>合計</h1><h1><br></h1></div>
+<div>ーーーーー<br></div>
+<div>89,945円</div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>2</h1><h1>/26</h1></div>
+<div><h2>メルペイ</h2><h2><br></h2></div>
+<div>定額払い1万円にしたから、24/10まで<br></div>
+<div>ーーーーーー<br></div>
+<div>14800円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>2</h1><h1>/27</h1></div>
+<div><h2>家賃(三井住友銀行)27日かも？</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>74500円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>1</h1><h1>2</h1><h1>/28</h1></div>
+<div><h2>楽天カード</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>78,555円（11/15現在、12日確定、19まで変更可能)</div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>ミモザ</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>5300円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>ライフカード</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div>6000円(確定)<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>Amazon</h2><h2>カード</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>6063円(11/15現在、未確定、22日？まで変更可)</div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1><br></h1></div>
+<div><h1>1</h1><h1>2</h1><h1>/26.27.28</h1><h1>合計(家賃が27かも)</h1><h1><br></h1></div>
+<div>ーーーーーー<br></div>
+<div>174,355円</div>
+<div>ーーーーーー<br></div>
+<div>⚠️10月に楽天10万円以下リボにして、<br></div>
+<div>三井住友Amazonカードリボ済<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>末日</h2><h2><br></h2></div>
+<div>国保(ゆうちょ銀行口座引き落とし)<br></div>
+<div>ーーーーー<br></div>
+<div>6010円<br></div>
+<div>ーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h1>１ヶ月合計金額(現在)</h1><h1><br></h1></div>
+<div><h3>楽天・Amazonリボで</h3><h3><br></h3></div>
+<div>ーーーーーー<br></div>
+<div>689961円<br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>手元にある現金(11/1現在)</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div>2,952,870円<br></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><h2>稼げる予定の金額</h2><h2><br></h2></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div>ーーーーーー<br></div>
+<div><br></div>
+<div><h2>差額(現在)</h2><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div><h2><br></h2></div>
+<div>ーーーーーーー<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>もし稼ぎが0なら残額は</h2></div>
+<div>ーーーーーーー<br></div>
+<div>1,958,114</div>
+<div>ーーーーーーー</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/11/14 解剖学上半身
+BODY:
+<div>23/11/14 解剖学上半身<br></div>
+<div>チームラボボディ<br></div>
+<div>ヒューマンアナトミーアトラス<br></div>
+<div><br></div>
+<div>作用⇒起始と停止が近づく、縮む<br></div>
+<div><br></div>
+<div>坐骨神経痛⇒おしりの奥にあるいちばん太い神経(ハムの中とおる)の痛み</div>
+<div>何となくだるい、痺れる<br></div>
+<div><br></div>
+<div>坐骨神経痛じゃないのに有名だからとりあえず言ってるだけの人もいる</div>
+<div><br></div>
+<div>あとは伸びると痺れる</div>
+<div>おしりがもも裏に近いとこを伸ばすストレッチはだめ<br></div>
+<div><br></div>
+<div>腰をひねるストレッチもダメかも<br></div>
+<div><br></div>
+<div>ただ解したい、どうすれば？<br></div>
+<div><br></div>
+<div><br></div>
+<div><h2>⚠️</h2><h2>ねじる動き</h2><h2>は</h2><h2>危険</h2><h2>⚠️</h2><h2><br></h2></div>
+<div><br></div>
+<div>力入ってるということは限界、伸ばしちゃいけない</div>
+<div><br></div>
+<div>解剖学は怪我させないため<br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 勉強の時つかうものリスト(仕事)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 毎日チェックするリスト(仕事)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 計算
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: プライベートで始めたいこと
+BODY:
+<div><h1>プライベートで始めたいこと</h1><h1><br></h1></div>
+<ul>
+<li>駒込いる時に通えるジム<br></li>
+<li>ヨガ<br></li>
+<li>ボーカルレッスン<br></li>
+<li>ギターレッスン</li>
+<li>作曲レッスン<br></li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 小倉さんに習いたいこと
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: うちだ様 2023-11-06  14:00 〜 15:10
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: おかだ様  2023-11-06 15:20 〜 16:30
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 11/3やること
+BODY:
+<div><h1>11</h1><h1>/3</h1><h1>や</h1><h1>ること</h1></div>
+<ul>
+<li>携帯、どう変えるのがいいか調べる</li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: クラニオ先生・スクール一覧
+BODY:
+<div><h1>クラニオ</h1><h1>先生</h1><h1>・</h1><h1>スクール</h1><h1>一覧</h1></div>
+<div><br></div>
+<div>・頭蓋仙骨療法（クラニオセイクラル） - ゆうわ整体（千葉市中央区） - 腰痛・自律神経の乱れ・発達障害・の整体院<br></div>
+<div><br></div>
+<div>10時間55000円<br></div>
+<div><br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 気になる先生
+BODY:
+<div><h1>気になる</h1><h1>先生</h1><h1><br></h1></div>
+<ul>
+<li>RAND栗原さん</li>
+<li>ゆみさん<br></li>
+<li>森咲あんなさん<br></li>
+<li>一ノ瀬れいかさん</li>
+<li>成瀬まりさん<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 磨きたいスキル
+BODY:
+<div><h1>磨きたいスキル</h1><h1><br></h1></div>
+<div><br></div>
+<div>🧘‍♀️マッサージ</div>
+<div>チネイザン<br></div>
+<div>クラニオ<br></div>
+<div>結のドライメンエス個人講習<br></div>
+<div>まどかさん個人講習<br></div>
+<div>小倉さん個人講習<br></div>
+<div>森咲あんなさん<br></div>
+<div><br></div>
+<div><br></div>
+<div>💁‍♀️接遇面<br></div>
+<div>一ノ瀬れいかさん<br></div>
+<div>かもなすさん(受講予定あり)<br></div>
+<div><br></div>
+<div><br></div>
+<div><br></div>
+<div>‎♥️心理系</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 思ったこと
+BODY:
+<div>思ったこと</div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 見たい動画
+BODY:
+<div>見たい動画<br></div>
+<ul>
+<li>小倉さんの女性施術動画</li>
+<li><br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: マーメイドコーヒーロースターズ
+BODY:
+<div><h1>マーメイドコーヒー</h1><h1>ロースターズ</h1><h1><br></h1></div>
+<div><h1>うみねこコーヒー</h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: エルマとエイミーの話
+BODY:
+<div><h1>エルマと</h1><h1>エイミーの</h1><h1>話</h1><h1><br></h1></div>
+<div><h1>エイミーは</h1><h1>才能のない</h1><h1>音楽家</h1><h1><br></h1></div>
+<div><br></div>
+<div>エルマは才能のある音楽家</div>
+<div><br></div>
+<div>でもエルマはエイミーの音楽に惹かれていた<br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 服買いに行くならこのブランド候補
+BODY:
+<div>服買いに行くならこのブランド候補<br></div>
+<ul>
+<li>トッコクローゼット</li>
+<li>dazzlin</li>
+<li>ココディール</li>
+<li>アンミール<br></li>
+<li>Heather<br></li>
+<li>ナイスクラップ<br></li>
+<li>マヌスマシーナ<br></li>
+<li>アクシーズファム<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 住所変更系(すぐに)
+BODY:
+<div><h1>住所変更</h1><h1>系</h1><h1>(</h1><h1>すぐに</h1><h1>)</h1><h1><br></h1></div>
+<ul>
+<li>青山カード<br></li>
+<li>杉養蜂園<br></li>
+<li>スパディオ<br></li>
+<li>渋クリ<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 残タスク2(仕事)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 残タスク(仕事)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: やりたいこと(仕事、プライベート)
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 23/10/16 住民票閲覧制限追加変更事項
+BODY:
+<div><h1>2</h1><h1>3/1</h1><h1>0/1</h1><h1>6 </h1><h1>住民票閲覧制限</h1><h1>追加</h1><h1>変更</h1><h1>事項</h1><h1><br></h1></div>
+<div><br></div>
+<div><h1>書かれた人</h1><h1>から</h1><h1>何か</h1><h1>法的な</h1><h1>手続き</h1><h1>があった場合</h1><h1>はどうな</h1><h1>るのか？</h1><h1><br></h1></div>
+<div><br></div>
+<div><h1>本人にい</h1><h1>くことはな</h1><h1>い</h1></div>
+<div><h1>裁判</h1><h1>を通して</h1><h1>、</h1><h1>裁判所</h1><h1>か</h1><h1>、</h1><h1>弁護士</h1><h1>に</h1><h1>し</h1><h1>かいかない</h1><h1><br></h1></div>
+<div><br></div>
+<div>もし開示請求とかあった場合に連絡もらうことは可能か？<br></div>
+<div>可能、手続きの時に直接言って欲しい、メモで残す</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 仕事残りタスク一覧
+BODY:
+<div><h1>仕事</h1><h1>残り</h1><h1>タスク</h1><h1>一覧</h1></div>
+<ul>
+<li>フリーセラピストTwitterでこないだの活動のツイートする<br></li>
+<li>初めまして固定ツイする<br></li>
+<li>ブログのブランディング記事再予約投稿セット<br></li>
+<li>まず過去のブランディング記事をメモから掘り出す<br></li>
+<li>ひとつずつセット<br></li>
+<li>自己紹介<br></li>
+<li>出勤する日が決まったらいつもの予約投稿セット<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 閲覧制限
+BODY:
+<div><h1>閲覧制限</h1><h1><br></h1></div>
+<div><h1><br></h1></div>
+<div><h1>申出書</h1><h1><br></h1></div>
+<div><h1>名前</h1></div>
+<div><h1>何を止めて欲しいのか、</h1><h1><br></h1></div>
+<div><h1>警察</h1><h1>がハンコしてくれる</h1></div>
+<div><br></div>
+<div>被害の状況等<br></div>
+<div><br></div>
+<div>本人確認</div>
+<div>個人カード<br></div>
+<div><br></div>
+<div>相手は平気<br></div>
+<div><br></div>
+<div>住所が変わる<br></div>
+<div><br></div>
+<div>前住所と本籍をとめてる<br></div>
+<div><br></div>
+<div><br></div>
+<div>誰も取れないようにする</div>
+<div><br></div>
+<div>取ろうとする人誰にも出せない</div>
+<div><br></div>
+<div>本人が来た場合にも若干時間かかる</div>
+<div><br></div>
+<div><br></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 10/13
+BODY:
+<div><h1>1</h1><h1>0/1</h1><h1>3</h1><h1><br></h1></div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 10月になったら買うもの
+BODY:
+<div><h1>10</h1><h1>月に</h1><h1>なったら</h1><h1>買うもの</h1><h1><br></h1></div>
+<ul>
+<li>ペンかう<br></li>
+<li>デオドラントスプレー<br></li>
+<li>コンドーム<br></li>
+<li>トイレットペーパー<br></li>
+<li>館内移動用のカギをぶら下げるネックストラップ<br></li>
+<li>ナイトブラ✖️3(拓人家用)<br></li>
+<li>ナイトブラ×3(自宅用)<br></li>
+<li>クレンジング洗顔フォーム➡️拓人家へまとめて郵送<br></li>
+<li>プレミアセラム<br></li>
+<li>モイストセラム<br></li>
+<li>ブライトシリーズorWH化粧水</li>
+<li>ブライトセラム</li>
+<li>ブライトジェル<br></li>
+<li>スプレーの日焼け止め<br></li>
+<li>シャンプー普通の詰め替え</li>
+<li>トリートメント普通の詰め替え</li>
+<li>ストック用デリケートゾーン用ウォッシュ</li>
+<li>デイリーワンマウスウォッシュ<br></li>
+<li>メガネのレンズかえる<br></li>
+<li>眼科にいく<br></li>
+<li>JINSへいく<br></li>
+<li>UVつきのメガネもかう<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 10/1やること
+BODY:
+<div><h1>1</h1><h1>0/1</h1><h1>やること</h1><h1><br></h1></div>
+<div><h2>仕事</h2><h2>関連</h2><h2><br></h2></div>
+<ul>
+<li>シフト考える<br></li>
+<li>ブログのブランディング記事再予約投稿セット<br></li>
+<li>まず過去のブランディング記事をメモから掘り出す<br></li>
+<li>ひとつずつセット<br></li>
+<li>自己紹介<br></li>
+<li>出勤する日が決まったらいつもの予約投稿セット<br></li>
+</ul>
+<div><br></div>
+<div><br></div>
+<div><h2>プライベート</h2><h2><br></h2></div>
+<ul>
+<li>カーテン幅測ってメモ<br></li>
+<li>ディプロマ1の教科書の色塗り<br></li>
+<li>ヨガパンツとTシャツ2.3セット拓人家に置いておく用に用意<br></li>
+<li>ゆうちょ銀行3万円振込<br></li>
+<li>お金の計算<br></li>
+<li>運営タスク<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 9/28やること
+BODY:
+<div><h1>9</h1><h1>/28</h1><h1>やること</h1><h1><br></h1></div>
+<ul>
+<li>浴衣出す<br></li>
+<li>どれ着るか考える<br></li>
+<li>タイ式マッサージの道具もってく<br></li>
+<li>カラオケいく<br></li>
+<li>移動中<br></li>
+<li>明日の練習会なに練習するか考える</li>
+<li>まとめる<br></li>
+<li>施術で困ってること書き出す<br></li>
+<li>まとめる<br></li>
+<li>キテネおす<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 9/23.24やること
+BODY:
+<div><h1>9/23</h1><h1>.24</h1><h1>やること</h1><h1><br></h1></div>
+<ul>
+<li>ご飯<br></li>
+<li>洗濯</li>
+<li>乾燥<br></li>
+<li>筋トレ<br></li>
+<li>拓人の服のけだまとり<br></li>
+<li>10/25-27の草加ホテル予約<br></li>
+<li>✈️旅の準備<br></li>
+<li>コンドーム<br></li>
+<li>ローション<br></li>
+<li>服✖️3<br></li>
+<li>下着✖️3<br></li>
+<li>寝巻き✖️1<br></li>
+<li>✨️ドライヤー<br></li>
+<li>✨️ヘアブラシ<br></li>
+<li>水素(つめかえ)<br></li>
+<li>プレミアセラム(つめかえ)<br></li>
+<li>シャンプー(つめかえ)<br></li>
+<li>トリートメント(つめかえ)<br></li>
+<li>ボディクリーム<br></li>
+<li>ヘアオイル<br></li>
+<li>めんぼう<br></li>
+<li>リップ<br></li>
+<li>明日のこと調べる<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: てるい様 2023-09-24  13:00 〜 14:40
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 対策
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 誰と過ごすかが1番大事
+BODY:
+<div><h1>誰と過ごすかが</h1><h1>1番</h1><h1>大事</h1></div>
+<div>働くことで犠牲にすると後悔する<br></div>
+<div><br></div>
+<div>効率よく働いた方がいい</div>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 9/15予定
+BODY:
+<div><h1>9/</h1><h1>15</h1><h1>予定</h1><h1><br></h1></div>
+<ul>
+<li>午前中宅急便集荷で起床<br></li>
+<li>ご飯作る<br></li>
+<li>15時〜カーブス<br></li>
+<li>17時〜出勤<br></li>
+<li>仕事のこと諸々する<br></li>
+</ul>
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: 自己サービスPR文に追加するやつ
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: やまだ様 2023-09-10 21:40 〜 22:50
+BODY:
+================================================================================
+
+ACCOUNT: iCloud
+FOLDER: Notes
+TITLE: やまだ様 2023-09-10  21:40 〜 22:50
+BODY:
